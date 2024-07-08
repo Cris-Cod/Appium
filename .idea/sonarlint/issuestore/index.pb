@@ -5,8 +5,6 @@
 .src/test/java/co/com/project/AppiumBasics.java,7\a\7acbea5b9567869fec0fc5d03f81cf5feb7a67d5
 Z
 *src/test/java/co/com/project/BaseTest.java,9\b\9b05f4a3995f0c9597f4453c64ba7ff06fc649f3
-[
-+src/test/java/co/com/project/LongPress.java,f\2\f2983b44e3b0cefcb2cda70553f6ab1a5121e34d
 a
 1src/test/java/co/com/project/LongPressButton.java,6\a\6a4bde83c41a2b791b056ab7b336688e78af645b
 \
@@ -15,3 +13,11 @@ a
 +src/test/java/co/com/project/Swipedemo.java,e\6\e641979af049dd6f2e48b01d1bd4dcd5e78c1c7c
 ^
 .src/test/java/co/com/project/DragDrogDemo.java,1\9\19819789bb5306a0f62712352f521d3d574e57f1
+^
+.src/test/java/co/com/project/Miscellanous.java,7\9\79fa35e2e801b0aba3a818c9ecd6547e0d2f8548
+b
+2src/test/java/co/com/eccomerce/Eccomerce_Tc_1.java,4\b\4b8592d60e9d6a461a13b9432438a05bef63c45d
+b
+2src/test/java/co/com/eccomerce/Eccomerce_Tc_2.java,1\5\1549befbf4b3feb5e44f08e0c517702df089bcb4
+b
+2src/test/java/co/com/eccomerce/Eccomerce_Tc_3.java,a\b\ab79aef79f7fa17f2c59dd331372a33df1456544
