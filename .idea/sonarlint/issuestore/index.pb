@@ -21,3 +21,9 @@ b
 2src/test/java/co/com/eccomerce/Eccomerce_Tc_2.java,1\5\1549befbf4b3feb5e44f08e0c517702df089bcb4
 b
 2src/test/java/co/com/eccomerce/Eccomerce_Tc_3.java,a\b\ab79aef79f7fa17f2c59dd331372a33df1456544
+i
+9src/test/java/co/com/eccomerce/Eccomerce_Tc_4_Hybrid.java,1\3\132867fefbbf2bb7dabcd9afd8562201d70fcc8a
+c
+3src/test/java/co/com/project/MobileBrowserTest.java,8\2\822c2d94775489e9419d39bc95aec9b3b8a75a00
+a
+1src/test/java/co/com/project/BrowserBaseTest.java,4\f\4f6db7bb11b9d67a670e075b6609dc7080e0a39b

@@ -51,6 +51,7 @@ public class Eccomerce_Tc_3 extends BaseTest {
         driver.findElement(AppiumBy.className("android.widget.CheckBox")).click();
         driver.findElement(By.id("com.androidsample.generalstore:id/btnProceed")).click();
         Thread.sleep(3000);
+        //Hybrid - Google page ->
     }
 
 
